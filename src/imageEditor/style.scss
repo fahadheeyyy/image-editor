@@ -1,0 +1,15 @@
+.page-container {
+  width: 100vw;
+  display: flex;
+  flex-direction: column;
+
+  .image-editor-options {
+    display: flex;
+    position: absolute;
+    align-items: center;
+    gap: 50px;
+    width: 50%;
+    height: 10%;
+    padding: 20px;
+  }
+}
